@@ -1,6 +1,5 @@
-# Selam Dostlarım, Sizlere v12 boş altyapı hazırladım burdan alarak v12 botunuzu geliştirebilirsiniz. 
-# Botta herhangi bir hata aldığınızda discord sunucumza gelip yardım/destek alabilirsiniz iyi günler!
-[Serendia Squad Discord](discord.gg/serendia)
+# Hello Friends, I prepared v12 empty infrastructure, you can develop your v12 bot while preparing it.
+# In case of any bugs in the bot, you can come to our discord server and get help/support. Have a nice day!
+[Serendia Team Clash](discord.gg/serendia)
  
- Not: Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır.
-
+ Note: It is strictly forbidden to be sold for project purposes or to be distributed by anyone else with any other advertisement.
